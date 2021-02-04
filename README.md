@@ -3,4 +3,7 @@ This project first presents a coherent signal demodulation method based on gener
 The structure and detailed description of the network are planned to be published in the Journal of "Optical Engineering". The author can also be contacted for information wangyahui@aoe.ac.cn
 Here, we provide the program to prepare the data set, and we develop the data set according to the principle of interferometry.
 Due to the large data set, we upload it in batches. The upload time is February 4, 2021.
-The dataset contains three folders
+The dataset contains three folders, which needed to train PDGAN
+clean folder include clean Doppler signal and corresponding coherent signal
+Babble folder includes Doppler signal with babble noise and corresponding coherent signal
+White folder includes Doppler signal with white noise and corresponding coherent signal
