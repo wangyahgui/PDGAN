@@ -1,0 +1,4 @@
+The folder in this section contains the data sets needed to train PDGAN
+clean folder include clean Doppler signal and corresponding coherent signal
+Babble folder includes Doppler signal with babble noise and corresponding coherent signal
+White folder includes Doppler signal with white noise and corresponding coherent signal
